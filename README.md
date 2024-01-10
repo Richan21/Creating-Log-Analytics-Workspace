@@ -19,7 +19,7 @@ NOTE: I was able to set up the entire project on both my IPAD Pro 2020 and Deskt
 <h2>Operating Systems used</h2>
 
 - windows 10(21h2)
-- IpadOS Version 16
+- Safari (IpadOS Version 16)
 
 ## Resource Group Creation
 1. Sign in to the Azure Portal.
