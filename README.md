@@ -5,7 +5,7 @@ This is a step by step Lab on how to create a Log Analytics Workspace using Micr
 
 
 <h1>Creating-Azure-VMs</h1>
-The Lab guide outlines step by step method of setting up a Log Analytic Workspace using Microsoft Azure and linking it to a Virtual Machine created on Microsoft Azure.<br />
+The Lab guide outlines step by step method of setting up a Log Analytic Workspace using Microsoft Azure and connecting it to a Virtual Machine created on Microsoft Azure<br />
 
 
 ## Prerequisites
